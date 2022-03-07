@@ -1,18 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
 import Title from './components/Title';
 import Button from './components/Button';
+import MyMap from './components/MyMap';
+import Pokemon from './components/Pokemon';
 
 function App() {
-  // we write our JavaScript code
+  // we write our JavaScript code here
 
   return (
-    //  we write out HTML
+    //  we write out "HTML" code here
     <>
-      <Title title="Testing Props"/>
+      {/* <Title title="Testing Props"/>
       <Title title="My Title"/>
       <p>My paragraph</p>
-      <Button/>
+      <Button/> */}
+      {/* <MyMap/> */}
+      <Pokemon/>
     </>
 
   );
