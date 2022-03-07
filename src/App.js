@@ -10,11 +10,11 @@ function App() {
   return (
     //  we write out "HTML" code here
     <>
-      {/* <Title title="Testing Props"/>
+      <Title title="Testing Props"/>
       <Title title="My Title"/>
       <p>My paragraph</p>
-      <Button/> */}
-      {/* <MyMap/> */}
+      <Button/>
+      <MyMap/>
       <Pokemon/>
     </>
 

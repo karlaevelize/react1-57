@@ -9,7 +9,7 @@ module.exports = [
     quote:
       "Things we lose have a way of coming back to us in the end, if not always in the way we expect",
     imgUrl:
-      "https://static.wikia.nocookie.net/harry-potter-pedia/images/8/87/Luna_profile.png/revision/latest?cb=20140511105302",
+      "https://static.wikia.nocookie.net/harry-potter-pedia/images/8/87/Luna_profile.png",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ module.exports = [
     quote:
       "Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed or worse… Expelled!",
     imgUrl:
-      "https://static.wikia.nocookie.net/magicverse/images/3/34/Hermione_Granger.jpg/revision/latest?cb=20210304201426&path-prefix=tr",
+      "https://static.wikia.nocookie.net/magicverse/images/3/34/Hermione_Granger.jpg",
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ module.exports = [
     born: "1951",
     quote: "I killed Sirius Black... I killed Sirius Black... 🎶",
     imgUrl:
-      "https://static.wikia.nocookie.net/dieseldorky16/images/5/5c/6A089BD5-07DA-470E-B3B8-34C2190ABC5C.jpeg/revision/latest?cb=20181230032318",
+      "https://static.wikia.nocookie.net/dieseldorky16/images/5/5c/6A089BD5-07DA-470E-B3B8-34C2190ABC5C.jpeg",
   },
   {
     id: 4,
@@ -66,7 +66,7 @@ module.exports = [
     born: "9 January, 1960",
     quote: "Always",
     imgUrl:
-      "https://static.wikia.nocookie.net/harrypotterfanon/images/9/99/SevSnape.jpg/revision/latest?cb=20160129230835",
+      "https://static.wikia.nocookie.net/harrypotterfanon/images/9/99/SevSnape.jpg",
   },
   {
     id: 7,
@@ -88,7 +88,7 @@ module.exports = [
     born: "24 February, 1897",
     quote: "Imperfect understanding is often more dangerous than ignorance.",
     imgUrl:
-      "https://static.wikia.nocookie.net/harry-potter-and-fantastic-beasts-films/images/e/ee/COGW_Newt_Scamander.png/revision/latest/top-crop/width/360/height/450?cb=20181013182509",
+      "https://static.wikia.nocookie.net/harry-potter-and-fantastic-beasts-films/images/e/ee/COGW_Newt_Scamander.png",
   },
   {
     id: 9,
@@ -122,7 +122,7 @@ module.exports = [
     born: "Between 1 September 1978 and 31 August 1979",
     quote: "Sorry, I didn't catch that.",
     imgUrl:
-      "https://static.wikia.nocookie.net/harrypotter/images/e/e1/Cho.jpg/revision/latest/scale-to-width-down/223?cb=20090725204212",
+      "https://static.wikia.nocookie.net/harrypotter/images/e/e1/Cho.jpg",
   },
   {
     id: 12,
@@ -158,7 +158,7 @@ module.exports = [
     quote:
       "Fame’s a fickle friend, Harry... Celebrity is as celebrity does, remember that.",
     imgUrl:
-      "https://static.wikia.nocookie.net/harrypotter/images/7/7b/Gilderoy_Lockhart_promotional_image_COSF.jpg/revision/latest?cb=20181009213748",
+      "https://static.wikia.nocookie.net/harrypotter/images/7/7b/Gilderoy_Lockhart_promotional_image_COSF.jpg",
   },
   {
     id: 15,
@@ -180,7 +180,7 @@ module.exports = [
     quote:
       "I — I need to think. To remember! Oh, I'm never going to finish my revision!",
     imgUrl:
-      "https://static.wikia.nocookie.net/hpmor/images/9/91/Hannah_Abbot_%281%29.jpg/revision/latest/top-crop/width/360/height/450?cb=20210629141947",
+      "https://static.wikia.nocookie.net/hpmor/images/9/91/Hannah_Abbot_%281%29.jpg",
   },
   {
     id: 17,
@@ -192,7 +192,7 @@ module.exports = [
     quote:
       "A foolish young man I was then, full of ridiculous ideas about good and evil. My master showed me how wrong I was. There is no good and evil... there is only power, and those too weak to understand it... ",
     imgUrl:
-      "https://static.wikia.nocookie.net/harrypotter/images/d/d2/Quirinus_Quirrell_PS_promo.jpg/revision/latest?cb=20110806132643",
+      "https://static.wikia.nocookie.net/harrypotter/images/d/d2/Quirinus_Quirrell_PS_promo.jpg",
   },
   {
     id: 18,
@@ -281,6 +281,6 @@ module.exports = [
     born: "1955",
     quote: "He is dead!",
     imgUrl:
-      "https://static.wikia.nocookie.net/muggle-born/images/2/26/NarcissaMalfoy.jpg/revision/latest?cb=20131222105412",
+      "https://static.wikia.nocookie.net/muggle-born/images/2/26/NarcissaMalfoy.jpg",
   },
 ];
