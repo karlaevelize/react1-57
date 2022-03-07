@@ -1,10 +1,9 @@
-// import pokemons from "../data/pokemons"
+import pokemons from "../data/pokemons"
 import PokemonCard from "./PokemonCard"
 
 export default function Pokemon(){
 
-  const pokemons = { name: "Karla" }
-
+  //check if we are getting the data
   console.log("pokemns", pokemons)
 
   return(
